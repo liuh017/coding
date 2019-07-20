@@ -7,3 +7,4 @@
 1. [Easy_leetcode136_只出现一次的数字](test1/Easy_leetcode136_只出现一次的数字.md)
 2. [Middle_leetcode137_只出现一次的数字II](test1/Middle_leetcode137_只出现一次的数字II.md)
 3. [Middle_leetcode_260只出现一次的数字III](test1/Middle_leetcode_260只出现一次的数字III.md)
+4. [Easy_leetcode169_众数](test1/Easy_leetcode169_众数.md)
