@@ -9,4 +9,4 @@
 3. [Middle_leetcode_260只出现一次的数字III](test1/Middle_leetcode_260只出现一次的数字III.md)
 4. [Easy_leetcode169_众数](test1/Easy_leetcode169_众数.md)
 5. [Middle_leetcode240_搜索二维矩阵II](test1/Middle_leetcode240_搜索二维矩阵II.md)
-6. [hard_leetcode887_鸡蛋掉落](test1/hard_leetcode887_鸡蛋掉落.md)
+6. [Hard_leetcode887_鸡蛋掉落](test1/hard_leetcode887_鸡蛋掉落.md)
