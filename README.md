@@ -10,3 +10,4 @@
 4. [Easy_leetcode169_众数](test1/Easy_leetcode169_众数.md)
 5. [Middle_leetcode240_搜索二维矩阵II](test1/Middle_leetcode240_搜索二维矩阵II.md)
 6. [Hard_leetcode887_鸡蛋掉落](test1/Hard_leetcode887_鸡蛋掉落.md)
+7. [Hard_leetcode128_最长连续序列](test1/Hard_leetcode128_最长连续序列.md)
