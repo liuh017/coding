@@ -17,6 +17,8 @@
 
 注意：两结点之间的路径长度是以它们之间边的数目表示。
 
+**思路**:
+分三种情况：len_l+len_r、max(l)、max(r)
 ```
 /**
  * Definition for a binary tree node.
