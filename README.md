@@ -13,3 +13,4 @@
 7. [Hard_leetcode128_最长连续序列](test1/Hard_leetcode128_最长连续序列.md)
 8. [Easy_leetcode543_ 二叉树的直径](test1/Easy_leetcode543_二叉树的直径.md)
 9. [Middle_leetcode2_两数相加](test1/Middle_leetcode2_两数相加.md)
+10. [leetcode_从排序数组中删除重复项](test1/leetcode_从排序数组中删除重复项.md)
