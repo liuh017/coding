@@ -183,7 +183,7 @@ public:
         if(prices[i]>prices[i-1])res+=prices[i]-prices[i-1];
     }
     return res;
-
+```
 
 ```c++
 class Solution {
