@@ -24,3 +24,8 @@
 
 ## 剑指offer BAT经典面试题
 [九章算法介绍](https://www.nowcoder.com/ta/nine-chapter)
+
+
+## 基本知识
+[（RegionProposal Network)RPN网络结构及详解](https://blog.csdn.net/qq_36269513/article/details/80421990)
+[FPN: 一种高效的CNN特征提取方法](https://www.jianshu.com/p/5a28ae9b365d)
