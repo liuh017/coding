@@ -31,3 +31,8 @@
 ## 基本知识
 1. [（RegionProposal Network)RPN网络结构及详解](https://blog.csdn.net/qq_36269513/article/details/80421990)
 2. [FPN: 一种高效的CNN特征提取方法](https://www.jianshu.com/p/5a28ae9b365d)
+
+
+
+## 编程题超内存原因
+### 注意：超内存：可能是dfs参数没有加引用&
