@@ -18,7 +18,9 @@
 11. [leetcode_买卖股票的最佳时机](test1/leetcode_买卖股票的最佳时机.md)
 12. [Middle_leetcode48_旋转图像](test1/Middle_leetcode48_旋转图像.md)
 
-### 拓扑排序
+### 拓扑排序  
+  [拓扑排序入门（真的很简单）](https://blog.csdn.net/qq_41713256/article/details/80805338)
+  
   已通过	#329	矩阵中的最长递增路径	39
   
   已通过	#207	课程表
